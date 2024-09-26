@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
+    console.log("Hello");
     var tela = document.getElementById("tela");
 
     //Array de elementos que receber uma listener
