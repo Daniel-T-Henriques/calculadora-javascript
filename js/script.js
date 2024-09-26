@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
     //Adicionando evento de click
     for (var i = 0; i < listenerBtn.length; i++) {
         listenerBtn[i].addEventListener("click", passarValorTela);
+        console.log("Maçâ");
     }
 
     btnResultado.onclick = function () {

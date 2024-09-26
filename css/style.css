@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: content-box;
   background-color: #58bce7; 
-  border: 0 double black;
+  border: 0 double rgb(20, 20, 20);
   font-size: 1.5625rem;
 }
 
@@ -18,7 +18,7 @@
 }
 
 #calculadora td input:hover {
-  color: #fff;
+  color: #fa9b9b;
   background-color: #546E7A;
 }
 
@@ -28,5 +28,5 @@
 
 #calculadora td input#tela:hover {
   color: #000;
-  background-color: #fff;
+  background-color: #e1e7bd;
 }
